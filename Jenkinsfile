@@ -7,7 +7,7 @@ pipeline {
 
     stage('Code Quality') {
       steps {
-        log.info 'Code Quality'
+        log.info "Code Quality"
       }
     }
 
