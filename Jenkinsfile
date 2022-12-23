@@ -22,9 +22,7 @@ pipeline {
         echo 'Publish A Release'
       }
     }
-
   }
-
 }
 
 
