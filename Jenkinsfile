@@ -1,5 +1,3 @@
-@Library('roboshop')
-
 pipeline {
   agent any
 
@@ -28,3 +26,4 @@ pipeline {
 }
 
 
+@Library('roboshop')
